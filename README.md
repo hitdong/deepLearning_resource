@@ -1,8 +1,8 @@
 # deepLearning_resource
 ## paper
 ### The 9 Deep Learning Papers You Need To Know About 
-1. AlexNet (2012)  https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
-
+1. AlexNet (2012)  https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf    
+reproduce AlexNet by CAFFE. Caffe prototxt and caffemodel can be found https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet
 2. ZF Net (2013) https://arxiv.org/pdf/1311.2901v3.pd
 
 3. VGG Net (2014)  https://arxiv.org/pdf/1409.1556v6.pdf

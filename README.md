@@ -20,3 +20,4 @@ Faster R-CNN – 2015：https://translate.googleusercontent.com/translate_c?act=
 1. Batch Normalization: Accelerating Deep Network Training by Reducing  Internal Covariate Shift https://arxiv.org/abs/1502.03167
 ### Training network 
 tutorial http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
+CNN tricks: http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html

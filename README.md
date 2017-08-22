@@ -21,3 +21,13 @@ Faster R-CNN – 2015：https://translate.googleusercontent.com/translate_c?act=
 ### Training network 
 tutorial http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
 CNN tricks: http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
+
+### code
+UFLDL Andrew Ng
+Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+中文教程http://www.52ml.net/12019.htmlhttp://www.52ml.net/12019.html
+code: https://github.com/jatinshah/ufldl_tutorial
+
+toronto, Jeff Hinton组把deep CNN(CovNets)在ImageNet上train好的模型放到网上
+http://deeplearning.cs.toronto.edu/
+https://github.com/TorontoDeepLearning/convnet

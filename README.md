@@ -15,3 +15,6 @@ Faster R-CNN – 2015：https://translate.googleusercontent.com/translate_c?act=
 7. 生成对抗网络（2014）  https://arxiv.org/pdf/1406.2661v1.pdf  
 8. Generating Image Descriptions （2014）https://arxiv.org/pdf/1412.2306v2.pdf 
 9. Spatial Transformer Networks （2015）  https://arxiv.org/pdf/1506.02025.pdf
+
+### Setting up the data and the model
+1. Batch Normalization: Accelerating Deep Network Training by Reducing  Internal Covariate Shift https://arxiv.org/abs/1502.03167

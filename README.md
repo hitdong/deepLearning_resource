@@ -25,7 +25,7 @@ CNN tricks: http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
 ### code
 UFLDL Andrew Ng
 Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
-中文教程http://www.52ml.net/12019.htmlhttp://www.52ml.net/12019.html
+中文教程http://www.52ml.net/12019.html    
 code: https://github.com/jatinshah/ufldl_tutorial
 
 toronto, Jeff Hinton组把deep CNN(CovNets)在ImageNet上train好的模型放到网上

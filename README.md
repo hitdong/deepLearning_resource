@@ -31,3 +31,10 @@ code: https://github.com/jatinshah/ufldl_tutorial
 toronto, Jeff Hinton组把deep CNN(CovNets)在ImageNet上train好的模型放到网上
 http://deeplearning.cs.toronto.edu/
 https://github.com/TorontoDeepLearning/convnet
+
+## Face Detection
+### Home Page
+https://facedetection.com/
+### Benchmark
+http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+### Datasets
